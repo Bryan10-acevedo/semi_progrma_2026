@@ -1,0 +1,13 @@
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.frmNotas.resources
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.frmPeriodos.resources
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.frmPrincipal.resources
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.Properties.Resources.resources
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.GenerateResource.cache
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\fcp40\source\repos\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\fcp40\source\repos\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\fcp40\source\repos\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\fcp40\source\repos\SistemaAcademico\obj\Debug\SistemaAcademico.exe.config
